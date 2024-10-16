@@ -1,0 +1,2 @@
+Description:
+WordTracker is a simple and efficient text management tool that allows users to track and manage their inputted words with the ability to undo and redo actions seamlessly. Utilizing stacks and lists, WordFlow provides a smooth way to edit or restore previously entered text, ensuring you can easily navigate through your word history. Perfect for scenarios where word order matters, it keeps track of every entry while offering intuitive controls for undoing or redoing changes.
